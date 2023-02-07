@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome!
+Welcome to ÐVault! - Ðeterministic Ðecentralisation
 
 <!--
 
